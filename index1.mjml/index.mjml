@@ -1,0 +1,325 @@
+<mjml>
+  <mj-body>
+    <mj-raw>
+      <!-- Company Header -->
+    </mj-raw>
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image border="0" width="225px" padding="0" src="https://i.postimg.cc/52sWrHVW/NBC-sport-logo.png" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- Image Header -->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start-Star Header -->
+    </mj-raw>
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/rm0Txq7X/title-image.png" />
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/dtKFZPBp/hero-section-without-cropping.png" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End-Star Header -->
+    </mj-raw>
+    <mj-raw>
+      <!--Start-Intro-section-->
+    </mj-raw>
+    <mj-section background-color="#f0f0f0" padding="0">
+      <mj-column width="500px">
+        <mj-text font-size="15px" font-size="20px" font-family="Reith" color="#A8A8A8" align="center">Peter King
+        </mj-text>
+        <mj-text color="#202020" font-weight="bold" align="center" font-size="20px" font-family="Reith" padding="0 20px 0 20px">FMIA: Rodgers gets serious with Jests and more from Peter King's training camp tour
+        </mj-text>
+        <mj-text color="#202020" font-weight="300px" align="center" font-size="15px" font-family="Reith" padding="20px 20px 0px 20px">It's year 40 covering the NFL for me. Stareted with a team full of compelling figures in 1984, Cincinnati. Pau Brown, Sam Wyche, Cris Collinsworth, Anthony Munoz, Boomer Esiason as a rookie. That was...
+        </mj-text>
+        <mj-text align="center" font-size="12px"><a href="#">LEARN MORE</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--End-Intro-section-->
+    </mj-raw>
+    <mj-raw>
+      <!--latest sport-section-->
+    </mj-raw>
+    <mj-section background-color="#fafafa">
+      <!--left-column-->
+      <mj-column>
+        <mj-image width="300px" padding="0 0 0 20px" src="https://i.postimg.cc/FFSmKsj0/Bryce-Young-image.png" />
+        <mj-text align="left" font-weight="bold" color="#FFCC33">
+          LATEST FROM NBC SPORTS
+        </mj-text>
+        <mj-text align="left" padding="0 30px 0 23px" font-weight="500">
+          Bryce Young will start preseason opener
+        </mj-text>
+        <mj-text align="left" font-size="12px" line-height="15px"><a href="#">READ MORE</a>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        <!--Start-right-column-->
+      </mj-raw>
+      <mj-column>
+        <mj-image width="300px" padding="0 20px 0 0" src="https://i.postimg.cc/ZqXJKC1C/Noah-L-png.png" />
+        <mj-text align="left" font-weight="bold" color="#FFCC33">
+          LATEST FROM NBC SPORTS
+        </mj-text>
+        <mj-text align="left" padding="0 30px 0 23px" font-weight="500" line-height="15px">
+          Noah Lyles has detailed and scary plans for world championships
+        </mj-text>
+        <mj-text align="left" font-size="12px"><a href="#">READ MORE</a>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        <!--End-right-column-->
+      </mj-raw>
+    </mj-section>
+    <!--start-top-news section-->
+    <mj-section background-color="#f0f0f0" padding="0">
+      <mj-column width="100%">
+        <mj-image border="0" padding="0" width="560px" src="https://i.postimg.cc/cJbJ7JjS/nbc-top-news-image.png" />
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/GprnVT8R/Biles-background-image.jpg" />
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/fRzCJYPk/gymnastics-image.jpg" />
+      </mj-column>
+    </mj-section>
+    <!--end-top-news section-->
+    <!--start-sportlight-section-->
+    <mj-section background-color="#f0f0f0" padding="0">
+      <mj-column width="100%">
+        <mj-image border="0" padding="0" width="560px" src="https://i.postimg.cc/3JVLbkfw/whattowatchimage.png" />
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/pL0Nsf5n/football-grabs-image.png" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!--end-sportlight-section-->
+    </mj-raw>
+    <mj-raw>
+      <!-- Start-Bigthursday-section -->
+    </mj-raw>
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image border="0" width="640px" padding="0 20px 0 20px" src="https://i.postimg.cc/Z5YtP7nS/Big-Thursdayimage.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- End-Bigthursday-section -->
+    </mj-raw>
+    <!-- Start-Bigthursday-section -->
+    <mj-section background-color="#f0f0f0" padding="0">
+      <mj-column width="100%">
+        <mj-image border="0" padding="0 20px 0 20px" src="https://i.postimg.cc/3JVLbkfw/whattowatchimage.png" />
+        </column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-group width="600px">
+        <!-- First Column -->
+        <mj-column padding="0" width="25%">
+          <!-- First-game -->
+          <mj-text font-weight="bold" font-size="15px" padding="30px 0px 10px 20px">
+            7/31/2023 <br><span style=font-size:25px;>12:30</span></br>PM ET</br>
+          </mj-text>
+        </mj-column>
+        <!-- Second Column -->
+        <mj-column width="45%" padding="0">
+          <!-- Content for the second column -->
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="20px 0 5px 0" color="#FFCC33">
+            Olympics
+          </mj-text>
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="0">
+            Core Hydration Gynastics Classic: Women's Gymnastics
+          </mj-text>
+        </mj-column>
+
+        <!-- Third Column -->
+        <mj-column width="20%" padding="20px 0 20px 0">
+          <mj-text align="center" font-weight="bold" font-size="15px" padding="20px 0 0 20px">See recap
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="25px 0 0 0">
+          <mj-image padding="10px 0 0 0" align="left" height="30px" width="30px" src="https://i.postimg.cc/LsmBBXrh/lightyellowcolor.png">
+        </mj-column>
+
+
+        <!-- First Column -->
+        <mj-column padding="0" width="25%">
+          <!-- First-game -->
+          <mj-text font-weight="bold" font-size="15px" padding="30px 0px 10px 20px">
+            7/31/2023 <br><span style=font-size:25px;>12:30</span></br>PM ET</br>
+          </mj-text>
+        </mj-column>
+        <!-- Second Column -->
+        <mj-column width="45%" padding="0">
+          <!-- Content for the second column -->
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="20px 0 5px 0" color="#FFCC33">
+            Olympics
+          </mj-text>
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="0">
+            Core Hydration Gynastics Classic: Women's Gymnastics
+          </mj-text>
+        </mj-column>
+
+        <!-- Third Column -->
+        <mj-column width="20%" padding="20px 0 20px 0">
+          <mj-text align="center" font-weight="bold" font-size="15px" padding="20px 0 0 20px">See recap
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="25px 0 0 0">
+          <mj-image padding="10px 0 0 0" align="left" height="30px" width="30px" src="https://i.postimg.cc/LsmBBXrh/lightyellowcolor.png">
+        </mj-column>
+
+
+        <!-- First Column -->
+        <mj-column padding="0" width="25%">
+          <!-- First-game -->
+          <mj-text font-weight="bold" font-size="15px" padding="30px 0px 10px 20px">
+            7/31/2023 <br><span style=font-size:25px;>12:30</span></br>PM ET</br>
+          </mj-text>
+        </mj-column>
+        <!-- Second Column -->
+        <mj-column width="45%" padding="0">
+          <!-- Content for the second column -->
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="20px 0 5px 0" color="#FFCC33">
+            Olympics
+          </mj-text>
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="0">
+            Core Hydration Gynastics Classic: Women's Gymnastics
+          </mj-text>
+        </mj-column>
+
+        <!-- Third Column -->
+        <mj-column width="20%" padding="20px 0 20px 0">
+          <mj-text align="center" font-weight="bold" font-size="15px" padding="20px 0 0 20px">See recap
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="25px 0 0 0">
+          <mj-image padding="10px 0 0 0" align="left" height="30px" width="30px" src="https://i.postimg.cc/LsmBBXrh/lightyellowcolor.png">
+        </mj-column>
+
+
+        <!-- First Column -->
+        <mj-column padding="0" width="25%">
+          <!-- First-game -->
+          <mj-text font-weight="bold" font-size="15px" padding="30px 0px 10px 20px">
+            7/31/2023 <br><span style=font-size:25px;>12:30</span></br>PM ET</br>
+          </mj-text>
+        </mj-column>
+        <!-- Second Column -->
+        <mj-column width="45%" padding="0">
+          <!-- Content for the second column -->
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="20px 0 5px 0" color="#FFCC33">
+            Olympics
+          </mj-text>
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="0">
+            Core Hydration Gynastics Classic: Women's Gymnastics
+          </mj-text>
+        </mj-column>
+
+        <!-- Third Column -->
+        <mj-column width="20%" padding="20px 0 20px 0">
+          <mj-text align="center" font-weight="bold" font-size="15px" padding="20px 0 0 20px">See recap
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="25px 0 0 0">
+          <mj-image padding="10px 0 0 0" align="left" height="30px" width="30px" src="https://i.postimg.cc/LsmBBXrh/lightyellowcolor.png">
+        </mj-column>
+
+
+        <!-- First Column -->
+        <mj-column padding="0" width="25%">
+          <!-- First-game -->
+          <mj-text font-weight="bold" font-size="15px" padding="30px 0px 10px 20px">
+            7/31/2023 <br><span style=font-size:25px;>12:30</span></br>PM ET</br>
+          </mj-text>
+        </mj-column>
+        <!-- Second Column -->
+        <mj-column width="45%" padding="0">
+          <!-- Content for the second column -->
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="20px 0 5px 0" color="#FFCC33">
+            Olympics
+          </mj-text>
+          <mj-text font-weight="bold" font-size="15px" align="center" padding="0">
+            Core Hydration Gynastics Classic: Women's Gymnastics
+          </mj-text>
+        </mj-column>
+
+        <!-- Third Column -->
+        <mj-column width="20%" padding="20px 0 20px 0">
+          <mj-text align="center" font-weight="bold" font-size="15px" padding="20px 0 0 20px">See recap
+          </mj-text>
+        </mj-column>
+        <mj-column width="10%" padding="25px 0 0 0">
+          <mj-image padding="10px 0 0 0" align="left" height="30px" width="30px" src="https://i.postimg.cc/LsmBBXrh/lightyellowcolor.png">
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#FFCC33" width="180px">
+        <mj-text color="#f0f0f0" align="center"> SEE FULL SCHEDULE</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column padding="0" width="600px">
+        <mj-image padding="0" src="https://i.postimg.cc/xdPq7s5v/peacock-advert.jpg" />
+      </mj-column>
+    </mj-section>
+    <!--Footer-->
+    <mj-wrapper>
+      <mj-section background-color="#080808">
+        <mj-column width="100%">
+          <mj-text align="center" font-family="sans-serif" color="#f0f0f0" font-size="16px">
+            For up-to-the-minute coverage, follow @nbcsports
+          </mj-text>
+        </mj-column>
+        <mj-group width="160px">
+          <mj-column padding="0">
+            <mj-image src="https://i.postimg.cc/jdGmKp4C/Facebook.png" alt="Facebook" width="30px" height="30px" padding="5px" padding="5px 0 0 0" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image src="https://i.postimg.cc/mrS5YtfF/Twitter.png" alt="Twitter" width="30px" height="30px" padding="5px" padding="5px 0 0 0" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image src="https://i.postimg.cc/7Z0cLKK9/Instagram.png" alt="Instagram" width="30px" height="30px" padding="5px" padding="5px" padding="5px 0 0 0" />
+          </mj-column>
+          <mj-column padding="0">
+            <mj-image src="https://i.postimg.cc/hGnYQVwB/Snapchat.png" alt="Snapchat" width="30px" height="30px" padding="5px 0 0 0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section background-color="#080808" padding="0">
+        <mj-column padding="0">
+          <mj-text font-family="sans-serf" color="#f1f1f1" align="center" font-size="14px">
+            PointsBet is our Official Sports Betting Partner and we may receive compensation if you place a bet on PointsBet for the first time after clicking our links.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#080808" padding="0">
+        <mj-column padding="0">
+          <mj-text font-family="sans-serf" color="#f1f1f1" align="center" font-size="14px">
+            This newsletter was sent to you because you are a registered user and subscriber of NBCSports.com.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#080808" padding="0">
+        <mj-column>
+          <mj-text font-family="sans-serf" color="#f1f1f1" align="center" font-size="14px">
+            Privacy Policy | Terms of Use | Unsubscribe
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#080808" padding="0">
+        <mj-column padding="0">
+          <mj-text font-family="sans-serf" color="#f1f1f1" align="center" font-size="14px">
+            Please DO NOT REPLY TO THIS MESSAGE. For all inquiries, please <span style="text-decoration:underline;">click here</span>. If you are having problems contacting us, send a letter to NBC Sports c/o Webmaster, 1 Blachley Rd, Stamford CT 06902
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="0" background-color="#000000">
+          <mj-image width="200px" src="https://i.postimg.cc/tTQ009Y7/NBCsportsign.png" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
